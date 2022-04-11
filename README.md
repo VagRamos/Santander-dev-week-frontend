@@ -1,8 +1,8 @@
 # Homebroker
 
 <a href="url"><img src="https://user-images.githubusercontent.com/48002360/162661239-3b7bd2a0-931a-4571-a11f-0ab26ac84270.gif" width="200" ></a>
-  
-Link to page: https://vagramos.github.io/Santander-dev-week-frontend/
+
+<p><a href="https://vagramos.github.io/Santander-dev-week-frontend/" target="_blank">Click here</a> to see the project</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
